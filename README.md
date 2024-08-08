@@ -25,8 +25,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Joderick-Sherwin/Joderick-Sherwin/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="left">
