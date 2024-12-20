@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">Hi, I am an ML Engineer and the Team Lead for Project TerraDefender. I specialize in leading innovative machine learning projects and currently serve as the ML Lead for the DefenseTech Architects team. Additionally, I hold leadership roles as the Secretary and ML Lead for the REC IEEE CS Society and the AI/ML Lead for the Intellexa Club. My work focuses on developing cutting-edge solutions that bridge technology and defense.</h4>
+<h4 align="center">Hi, I am an ML Engineer and the Team Lead for Project TerraDefender. I specialize in leading innovative machine learning projects and currently serve as the ML Lead for the DefenseTech Architects team. Additionally, I hold leadership roles as the Vice Chairman and ML Lead for the REC IEEE CS Society and the AI/ML Lead for the Intellexa Club. My work focuses on developing cutting-edge solutions that bridge technology and defense.</h4>
 
 ###
 
